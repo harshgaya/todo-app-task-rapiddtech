@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808963225547",
+    "project_id": "todo-task-rapiddtech",
+    "storage_bucket": "todo-task-rapiddtech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808963225547:android:20ef46fd2ee5a1768fa84e",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_rapiddtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTmB-b8tCpmNlBNEbJitUhgtZ9s3XWSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
